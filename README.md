@@ -1,5 +1,5 @@
-# Lucas Emanuel
-Olá! Eu sou o Lucas, estudante de Engenharia de Software, e estou participando do Bootcamp do Santander!
+# 👋 Bem Vindo!
+Olá! Eu sou o Lucas Emanuel, estudante de Engenharia de Software, e esse é o meu perfil do GitHub!
 
 ## 📶 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-gonçalves-0b581921b/)
