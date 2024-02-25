@@ -2,10 +2,10 @@
 Olá! Eu sou o Lucas Emanuel, estudante de Engenharia de Software, e esse é o meu perfil do GitHub!
 
 ## 📶 Conecte-se comigo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
-height=35 width=35 />
-          
-          
+<a href="https://www.linkedin.com/in/lucas-gon%C3%A7alves-0b581921b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0RD8DF6PRfSbZhAhGqKKCQ%3D%3D" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:lucasemanuel.gon@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/e_lucaz_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 ## 📝 Habilidades
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 height=35 width=35 />
