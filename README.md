@@ -1,5 +1,15 @@
-# 👋 Bem Vindo!
-Olá! Eu sou o Lucas Emanuel, estudante de Engenharia de Software, e esse é o meu perfil do GitHub!
+## 👋 Hello, Devs!!
+Olá! Eu sou o Lucas Emanuel, estudante de Engenharia de Software pela Unicesumar, e esse é o meu perfil do GitHub!
+
+Hello! My name is Lucas Emanuel, i'm an undergraduate of Software Engineering at Unicesumar, and this is my GitHub profile!
+
+
+## 💭 Sobre Mim
+- 😄 Pronomes: Ele/Dele;
+- 🌱 Atualmente estou aprendendo HTML5, CSS3 e JavaScript;
+- 👯 Estou procurando colaborar em empresas e projetos de programação;
+- 🤔 Estou procurando um emprego fixo;
+
 
 ## 📶 Conecte-se comigo
 <a href="https://www.linkedin.com/in/lucas-gon%C3%A7alves-0b581921b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0RD8DF6PRfSbZhAhGqKKCQ%3D%3D" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
