@@ -30,7 +30,12 @@ heigth=35 width=35 />
           
           
 ## 🌟 Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucas-G0&theme=transparent&bg_color=FFF&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucas-G0&bg_color=FFF&border_color=30A3DC&title_color=E94D5F&text_color=000)
+
+<a href="https://github.com/Lucas-G0">
+<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-G0&layout=compact&langs_count=7&theme=dracula"/> 
+<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=Lucas-G0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 ## 🧭 Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-G0&repo=dio-lab-open-source&bg_color=FFF&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000)](https://github.com/Lucas-G0/dio-lab-open-source)
+
+![Snake animation](https://github.com/Lucas-G0/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
