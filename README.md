@@ -8,7 +8,6 @@ Hello! My name is Lucas Emanuel, i'm an undergraduate of Software Engineering at
 - 😄 Pronomes: Ele/Dele;
 - 🌱 Atualmente estou aprendendo HTML5, CSS3 e JavaScript;
 - 👯 Estou procurando colaborar em empresas e projetos de programação;
-- 🤔 Estou procurando um emprego fixo;
 
 
 ## 📶 Conecte-se comigo
