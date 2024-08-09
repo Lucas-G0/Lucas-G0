@@ -16,7 +16,7 @@ Hello! My name is Lucas Emanuel, i'm an undergraduate of Software Engineering at
 
 ## 📝 Knowledge
 
-- 🖥 Front-End <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg](https://skillicons.dev/icons?i=all)" height=35 width=35 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+- 🖥 Front-End <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)" height=35 width=35 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 height=35 width=35 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 height=35 width= 35 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg"
