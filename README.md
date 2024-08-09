@@ -1,13 +1,12 @@
 ## 👋 Hello, Devs!!
-Olá! Eu sou o Lucas Emanuel, estudante de Engenharia de Software pela Unicesumar, e esse é o meu perfil do GitHub!
 
 Hello! My name is Lucas Emanuel, i'm an undergraduate of Software Engineering at Unicesumar, and this is my GitHub profile!
 
 
 ## 💭 Sobre Mim
-- 😄 Pronomes: Ele/Dele;
-- 🌱 Atualmente estou aprendendo HTML5, CSS3 e JavaScript;
-- 👯 Estou procurando colaborar em empresas e projetos de programação;
+- 😄 Pronouns: Ele/Dele;
+- 🌱 Actually learning JAVA, PHP, React and mySQL;
+- 👯 Looking for programming challenges;
 
 
 ## 📶 Conecte-se comigo
