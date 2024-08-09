@@ -15,6 +15,8 @@ Hello! My name is Lucas Emanuel, i'm an undergraduate of Software Engineering at
 <a href="https://instagram.com/e_lucaz_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ## 📝 Habilidades
+
+## Front-End \
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 height=35 width=35 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
