@@ -16,26 +16,10 @@ Hello! My name is Lucas Emanuel, i'm an undergraduate of Software Engineering at
 
 ## 📝 Knowledge
 
-- 🖥 Front-End [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
--
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)" height=35 width=35 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-height=35 width=35 /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-height=35 width= 35 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg"
-height=35 width=35 />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-height=35 width=35 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-height=35 width=35 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
-height=35 width=35 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
-heigth=35 width=35 />
-          
-          
-          
-          
+- 🖥 Front-End [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
+- 📖 Back-End [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,php)](https://skillicons.dev)
+- 💽 IDE's [![My Skills](https://skillicons.dev/icons?i=vscode,replit,idea)](https://skillicons.dev)
+- ❔ Others [![My Skills](https://skillicons.dev/icons?i=discord,figma,git,github,notion,windows)](https://skillicons.dev)
           
 ## 🌟 Github Stats
 
