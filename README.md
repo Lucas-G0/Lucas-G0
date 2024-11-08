@@ -16,17 +16,17 @@ Hello! My name is Lucas Emanuel, i'm an undergraduate of Software Engineering at
 
 ## 📝 Knowledge
 
-- 🖥 Front-End 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
+- 🖥 Front-End <br/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)<br/>
 
-- 📖 Back-End
-   [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,php)](https://skillicons.dev)
+- 📖 Back-End <br/>
+   [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,php)](https://skillicons.dev)<br/>
   
-- 💽 IDE's
- [![My Skills](https://skillicons.dev/icons?i=vscode,replit,idea)](https://skillicons.dev)
+- 💽 IDE's<br/>
+ [![My Skills](https://skillicons.dev/icons?i=vscode,replit,idea)](https://skillicons.dev)<br/>
   
-- ❔ Others
- [![My Skills](https://skillicons.dev/icons?i=discord,figma,git,github,notion,windows)](https://skillicons.dev)
+- ❔ Others<br/>
+ [![My Skills](https://skillicons.dev/icons?i=discord,figma,git,github,notion,windows)](https://skillicons.dev)<br/>
   
           
 ## 🌟 Github Stats
