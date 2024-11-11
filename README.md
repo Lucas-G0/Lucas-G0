@@ -35,4 +35,3 @@ Hello! My name is Lucas Emanuel, i'm an undergraduate of Software Engineering at
 <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-G0&layout=compact&langs_count=7&theme=dracula"/>
 
 ## 🧭 Minhas contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-G0&repo=dio-lab-open-source&bg_color=FFF&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=000)](https://github.com/Lucas-G0/dio-lab-open-source)
